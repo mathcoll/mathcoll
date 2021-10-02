@@ -1,4 +1,4 @@
-<h3 align="center">An IoT passionate Lead Product Manager from France</h3>
+<h3 align="center">An IoT passionate Lead Product Manager from France... Well yes I'm not a developper. :-)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathcoll" alt="mathcoll" /></a> </p>
 
