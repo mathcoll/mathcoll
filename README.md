@@ -3,6 +3,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathcoll" alt="mathcoll" /></a> </p>
 
 - 🔭 I’m currently working on [t6 IoT](https://github.com/mathcoll/t6)
+- 🔭 I’m currently working on [t6 IoT] Arduino library(https://github.com/mathcoll/t6iot)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
